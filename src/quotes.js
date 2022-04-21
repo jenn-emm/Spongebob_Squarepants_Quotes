@@ -280,7 +280,7 @@ const quotes = [
   },
   {
     key: 43,
-    quote: "I dont wanna grow up! I want cookies, and milky!",
+    quote: "I don't wanna grow up! I want cookies, and milky!",
     by: "Spongebob",
     imgURL: "https://i.gifer.com/WrdR.gif"
   },
